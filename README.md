@@ -1,7 +1,7 @@
 ## 📝 Sobre:
-* 🔎 Buscando oportunidades como programador free lancer
+* 🔎 Buscando oportunidades como programador free lancer 
 * 💡 Sempre fui muito curioso com tecnologia e estou sempre aprendendo
-* 🎯 Meu principal foco: Python, JavaScript 
+* 🎯 Meu principal foco: Python, JavaScript, HTML e CSS
 
 ## 💻 Conhecimentos:
 <p>
