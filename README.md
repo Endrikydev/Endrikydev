@@ -1,6 +1,5 @@
 ## 📝 Sobre:
 * 🔎 Buscando oportunidades como programador free lancer 
-* 💡 Sempre fui muito curioso com tecnologia e estou sempre aprendendo
 * 🎯 Meu principal foco: Python, JavaScript, HTML e CSS
 * 🤝 Estou aberto para colaborar e aprender em novos projetos
 * ⚔️ Atualmente estou trabalhando no Exercito Brasileiro
