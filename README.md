@@ -17,7 +17,7 @@
 </p>
 
 ## 📊 Estatísticas do Github:
-[![adeliadev](https://github-readme-stats.vercel.app/api/top-langs/?username=Endrikydev&layout=compact&hide=html&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![adeliadev](https://github-readme-stats.vercel.app/api/top-langs/?username=Endrikydev&layout=compact&hide=html&hide_border=true&title_color=2469d1&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <img height="180em" align="right" alt="stardew_valley" src="https://media.discordapp.net/attachments/970093158841057303/1277091858002083891/stardew-valley-minecraft.gif?ex=66cde23a&is=66cc90ba&hm=5e2e68d110d929e982c1d8e997c6b83aa7acac8e8aa9b6dbc3ee34065fd3e711&=">
 
 ## ☎️ Contatos:
