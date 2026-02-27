@@ -16,9 +16,8 @@
 
 ## 📊 Estatísticas do Github:
 [![adeliadev](https://github-readme-stats.vercel.app/api/top-langs/?username=Endrikydev&layout=compact&hide=html&hide_border=true&title_color=2469d1&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-<img height="180em" align="right" alt="stardew_valley" src="https://media.discordapp.net/attachments/970093158841057303/1277091858002083891/stardew-valley-minecraft.gif?ex=66cde23a&is=66cc90ba&hm=5e2e68d110d929e982c1d8e997c6b83aa7acac8e8aa9b6dbc3ee34065fd3e711&=">
 
 ## ☎️ Contatos:
-<a href="https://www.linkedin.com/in/endriky-santos-93852b323" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/endriky/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/6hDgSGXS" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href = "mailto:endrikydev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
